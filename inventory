@@ -5,8 +5,8 @@
 localhost
 
 [localhost:vars]
-Course="Devops From inventory"
-Trainer="Sivakumar"
+Course="DevOps From inventory"
+Trainer="ssrs"
 Duration="110HRS"
 
 [web]
